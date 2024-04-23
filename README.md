@@ -1,5 +1,4 @@
 # 2048_Game_in_python
-## Report on 2048 Game Code
 
 This code implements a playable version of the 2048 game in Python using the Tkinter library. Here's a breakdown of the code:
 
